@@ -18,6 +18,3 @@ To implement and enforce centralized security and privacy settings for Microsoft
 
 ## Outcome
 Created a deployable set of hardened browser configurations, significantly reducing the attack surface from web-borne threats. Gained deep understanding of policy precedence and management.
-
----
-*[Back to Home](/index.md)*
